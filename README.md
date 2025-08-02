@@ -197,3 +197,7 @@ ai2query/
 MIT – use freely for educational or commercial purposes.
 
 ---
+
+Still a work in progress...
+
+---
