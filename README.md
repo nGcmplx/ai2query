@@ -54,7 +54,7 @@ Built with Docker Compose for isolated local development.
 
 ---
 
-## 🧱 Tech Stack
+## Tech Stack
 
 | Layer            | Technology              |
 |------------------|--------------------------|
@@ -68,7 +68,7 @@ Built with Docker Compose for isolated local development.
 
 ---
 
-## 🔌 API Endpoints
+## API Endpoints
 
 ### `POST /connect`
 
